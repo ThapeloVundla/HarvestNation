@@ -1,0 +1,37 @@
+[
+    {
+        "agriculture": "White maize",
+        "unit": "per Ton",
+        "price": "R3380.00",
+        "date": "30/03/2026",
+        "change": "-0.00"
+    },
+    {
+        "agriculture": "Yellow maize",
+        "unit": "per Ton",
+        "price": "R3500.00",
+        "date": "30/03/2026",
+        "change": "-0.00"
+    },
+    {
+        "agriculture": "Wheat",
+        "unit": "per Ton",
+        "price": "R5895.00",
+        "date": "30/03/2026",
+        "change": "-0.00"
+    },
+    {
+        "agriculture": "Soybeans",
+        "unit": "per Ton",
+        "price": "R7090.00",
+        "date": "30/03/2026",
+        "change": "-0.00"
+    },
+    {
+        "agriculture": "Sunflower seed",
+        "unit": "per Ton",
+        "price": "R9150.00",
+        "date": "30/03/2026",
+        "change": "-0.00"
+    }
+]
